@@ -22,6 +22,8 @@
     <img alt="html5" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
     <img alt="html5" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
     <img alt="html5" src="https://camo.githubusercontent.com/21993b10b489d1a96fcc783ca38c6a721b2835a7b99117921f20ad766e8e05e1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6578706f2d3143314532343f7374796c653d666f722d7468652d6261646765266c6f676f3d6578706f266c6f676f436f6c6f723d23443034413337"/>
+    <img alt="html5" src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white"/>
+    <img alt="html5" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </div>
 
 ### Contact me
