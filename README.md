@@ -6,7 +6,7 @@
 #### Here you will find my space where I dare to challenge my skills. Feel free to explore my projects and share my journey.
 
 ### Statistics
-![VictorRaphaelSF GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorRaphaelSF&show_icons=true&theme=dracula)
+![othereyesonme GitHub stats](https://github-readme-stats.vercel.app/api?username=othereyesonme&show_icons=true&theme=dracula)
 
 ### Technologies and libraries that I know about.
 <div style="display: inline_block"><br/>
